@@ -31,7 +31,7 @@
 
 **Способ 2: без Docker (нативно)**
 
- cd ~/color-follower-ros2/src/mobile  
+ cd ~/color-follower-ros2/src/project_w  
  colcon build  
  source install/setup.bash  
  ros2 launch mobile launch.py  
