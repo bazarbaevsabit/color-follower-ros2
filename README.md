@@ -61,14 +61,14 @@
 
 **📸 Пример работы**  
 
-<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/d34c0282-22fd-496a-b3a5-de5e7424bf39" />  
+
+
  <br>
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/e70b6359-93c8-48f2-92ef-347d7669a992" />  
+<img width="1000" height="563" alt="4" src="https://github.com/user-attachments/assets/95348996-51de-4547-bf6c-68e6a0350de0" />
 <br>
-<img width="1346" height="156" alt="3" src="https://github.com/user-attachments/assets/fb38b6b4-d9be-4ebb-b835-486bd415924c" />  
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/92d34c14-4b7d-40c0-a090-cf934af1baef" />
 <br>
-
-
+<img width="1804" height="156" alt="3" src="https://github.com/user-attachments/assets/9a2f50d2-c70e-4ce9-a872-9c1921780635" />
 
 *📝 Лицензия*  
 
