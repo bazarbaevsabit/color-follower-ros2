@@ -1,5 +1,5 @@
 # Color Follower — обнаружение и классификация цветных объектов с использованием ROS2 и Gazebo
-![CI](https://github.com/bazarbaevsabit/color-follower-ros2/actions/workflows/build.yml/badge.svg)
+[![CI](https://github.com/bazarbaevsabit/color-follower-ros2/actions/workflows/build.yml/badge.svg)](https://github.com/bazarbaevsabit/color-follower-ros2/actions/workflows/build.yml)
 ## 1. Назначение проекта
 Проект демонстрирует связку ROS2 Jazzy, Gazebo Harmonic и библиотеки OpenCV для решения задачи распознавания цвета в симулированной среде. Мобильная платформа перемещается вдоль набора цветных кубов, распознаёт цвет каждого куба и выводит его наименование в консоль. Проект предназначен для использования в качестве базового шаблона при изучении компьютерного зрения в ROS2.
 ## 2. Состав и структура
