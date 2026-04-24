@@ -27,7 +27,7 @@ private:
         cmd_pub_->publish(twist);
     }
 
-    std::string getColor(float h, float s, float v)
+    std::string getColor(float h, float s, float )
     {
         if (s < 80) return "NO_COLOR";
 
