@@ -11,7 +11,7 @@ def generate_launch_description():
 
     # Пути к основным файлам
     sdf_file = os.path.join(mobile_pkg_dir, 'world', 'test_world.sdf')          # мир Gazebo с кубами и роботом
-    urdf_file = os.path.join(mobile_pkg_dir, 'description', 'robot.urdf')       # URDF-описание робота (для RViz)
+    urdf_file = os.path.join(mobile_pkg_dir, 'description', 'robot_v1.urdf')       # URDF-описание робота (для RViz)
     rviz_config_path = os.path.join(mobile_pkg_dir, 'config', 'view_robot.rviz')# готовая конфигурация RViz
 
     # Читаем URDF, чтобы передать его в robot_state_publisher
